@@ -9,7 +9,6 @@ import MainPage from "./SideOne/MainPage";
 import Music from "./SideOne/Music";
 import Projects from "./SideOne/Projects";
 import Contact from "./SideOne/Contact";
-import Footer from "./SideOne/Footer";
 
 const App = () => {
   const [hasClickedHead, setHasClickedHead] = useState(false);
